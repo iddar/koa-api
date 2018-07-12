@@ -1,0 +1,22 @@
+{
+  "name": "back-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "iddar olivares <iddar@dbug.mx> (https://github.com/iddar)",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.2.0",
+    "koa": "^2.5.2",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.1",
+    "standard": "^11.0.1"
+  }
+}
